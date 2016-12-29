@@ -1,2 +1,2 @@
 # diary
-第3回 m1z0r3CTF : Diary (Web 100pt)
+m1z0r3CTF 2016 : Diary (Web 100pt)
